@@ -20,7 +20,7 @@ https://spam-detector-ai-i839.onrender.com
 ## 🏗 Project Architecture
 
 <p align="center">
-  <img src="architecture.png" width="800">
+  <img src="Architecture.png" width="800">
 </p>
 
 ---
