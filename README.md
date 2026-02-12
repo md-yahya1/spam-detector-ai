@@ -35,12 +35,8 @@ https://spam-detector-ai-i839.onrender.com
 - Git & GitHub
 
 ---
+
 ## 📂 Project Structure
-
-<details>
-<summary><strong>Click to expand</strong></summary>
-
-<br>
 
 <pre>
 spam-detector-ai/
@@ -52,10 +48,29 @@ spam-detector-ai/
 ├── vectorizer.pkl
 ├── accuracy.txt
 ├── images/
-└── templates/
+</pre>
+
+<details>
+<summary>📁 View images folder</summary>
+
+<br>
+
+<pre>
+images/
+├── Architecture.png
+├── SpamCase1.png
+├── SpamCase2.png
+├── NotSpamCase.png
+└── fileUploadCase.png
 </pre>
 
 </details>
+
+<pre>
+└── templates/
+    └── index.html
+</pre>
+ails>
 
 ---
 
@@ -105,7 +120,19 @@ spam-detector-ai/
 - Cloud deployment debugging
 
 ---
+---
 
+## 🙌 Acknowledgements
+
+- 📊 Dataset: [SMS Spam Collection Dataset – Kaggle](https://www.kaggle.com/)
+- 🧠 Machine Learning: [Scikit-learn](https://scikit-learn.org/)
+- 🌐 Web Framework: [Flask](https://flask.palletsprojects.com/)
+- 🐳 Containerization: [Docker](https://www.docker.com/)
+- ☁️ Deployment Platform: [Render](https://render.com/)
+
+Built using open-source tools and publicly available datasets.
+
+---
 ## 📌 Author
 
 Mohammed Yahya  
