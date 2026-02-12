@@ -35,21 +35,27 @@ https://spam-detector-ai-i839.onrender.com
 - Git & GitHub
 
 ---
-
 ## 📂 Project Structure
 
-  spam-detector-ai/
-  │
-  ├── app.py
-  ├── spam_train.py
-  ├── Dockerfile
-  ├── requirements.txt
-  ├── spam_model.pkl
-  ├── vectorizer.pkl
-  ├── accuracy.txt
-  └── templates/
-  └── index.html
+<details>
+<summary><strong>Click to expand</strong></summary>
 
+<br>
+
+<pre>
+spam-detector-ai/
+├── app.py
+├── spam_train.py
+├── Dockerfile
+├── requirements.txt
+├── spam_model.pkl
+├── vectorizer.pkl
+├── accuracy.txt
+├── images/
+└── templates/
+</pre>
+
+</details>
 
 ---
 
