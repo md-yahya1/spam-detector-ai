@@ -59,27 +59,42 @@ spam-detector-ai/
 
 ---
 
-## 📸 Application Outputs
+## 📸 Application Screenshots
 
-### 🔴 Spam Detection Example 1
+<details>
+<summary><strong>🔴 Spam Detection Example</strong></summary>
+
+<br>
+
 <p align="center">
-  <img src="images/SpamCase1.png" width="800">
+  <img src="images/SpamCase1.png" width="900">
 </p>
 
-### 🔴 Spam Detection Example 2
+</details>
+
+<details>
+<summary><strong>🟢 Not Spam Example</strong></summary>
+
+<br>
+
 <p align="center">
-  <img src="images/SpamCase2.png" width="800">
+  <img src="images/NotSpamCase.png" width="900">
 </p>
 
-### 🟢 Not Spam Example
+</details>
+
+<details>
+<summary><strong>📂 File Upload Example</strong></summary>
+
+<br>
+
 <p align="center">
-  <img src="images/NotSpamCase.png" width="800">
+  <img src="images/fileUploadCase.png" width="900">
 </p>
 
-### 📂 File Upload Example
-<p align="center">
-  <img src="images/fileUploadCase.png" width="800">
-</p>
+</details>
+
+---
 
 ## 📚 What I Learned
 
