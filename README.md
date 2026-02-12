@@ -70,42 +70,40 @@ images/
 └── templates/
     └── index.html
 </pre>
-ails>
 
 ---
 
 ## 📸 Application Screenshots
 
 <details>
-<summary><strong>🔴 Spam Detection Example</strong></summary>
+  <summary><strong>🔴 Spam Detection Example</strong></summary>
 
-<br>
+  <br>
 
-<p align="center">
-  <img src="images/SpamCase1.png" width="900">
-</p>
+  <p align="center">
+    <img src="images/SpamCase1.png" width="900">
+  </p>
+</details>
+
+<details>
+  <summary><strong>🟢 Not Spam Example</strong></summary>
+
+  <br>
+
+  <p align="center">
+    <img src="images/NotSpamCase.png" width="900">
+  </p>
 
 </details>
 
 <details>
-<summary><strong>🟢 Not Spam Example</strong></summary>
+  <summary><strong>📂 File Upload Example</strong></summary>
 
-<br>
+  <br>
 
-<p align="center">
-  <img src="images/NotSpamCase.png" width="900">
-</p>
-
-</details>
-
-<details>
-<summary><strong>📂 File Upload Example</strong></summary>
-
-<br>
-
-<p align="center">
-  <img src="images/fileUploadCase.png" width="900">
-</p>
+  <p align="center">
+    <img src="images/fileUploadCase.png" width="900">
+  </p>
 
 </details>
 
